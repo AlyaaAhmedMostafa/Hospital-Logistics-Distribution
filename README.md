@@ -22,7 +22,6 @@
 12. [Year-over-Year Trend Analysis](#12-year-over-year-trend-analysis)
 13. [Documentation & Compliance Gap](#13-documentation--compliance-gap)
 14. [Strategic Recommendations](#14-strategic-recommendations)
-15. [SQL Queries Reference](#15-sql-queries-reference)
 
 ---
 
